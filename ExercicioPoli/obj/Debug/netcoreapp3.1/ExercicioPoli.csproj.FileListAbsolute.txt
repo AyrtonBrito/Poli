@@ -1,0 +1,14 @@
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\bin\Debug\netcoreapp3.1\ExercicioPoli.exe
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\bin\Debug\netcoreapp3.1\ExercicioPoli.deps.json
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\bin\Debug\netcoreapp3.1\ExercicioPoli.runtimeconfig.json
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\bin\Debug\netcoreapp3.1\ExercicioPoli.runtimeconfig.dev.json
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\bin\Debug\netcoreapp3.1\ExercicioPoli.dll
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\bin\Debug\netcoreapp3.1\ExercicioPoli.pdb
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.csproj.AssemblyReference.cache
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.AssemblyInfoInputs.cache
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.AssemblyInfo.cs
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.csproj.CoreCompileInputs.cache
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.dll
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.pdb
+C:\Users\Ayrton\source\repos\ExercicioPoli\ExercicioPoli\obj\Debug\netcoreapp3.1\ExercicioPoli.genruntimeconfig.cache
